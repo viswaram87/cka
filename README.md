@@ -2,7 +2,7 @@
 Learning about Kubernetes
 # CKA (Project Title)
 
-To practice on Kubernetes, and possibly work with it. 
+To practice on Kubernetes, and possibly work with it. Learning version control for now.  
 
 ## Getting Started
 
